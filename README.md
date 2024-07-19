@@ -10,7 +10,7 @@ This data analysis project aimed to identify the Washington State County with th
 
 ### Data Sources
 
-EV Data: The primary dataset utilized for the analysis is the file "EV_washington_DOL_data." The file contains two sheets: one sheet titled "work_vehicle_data," which represents the cleaned and refined dataset, and one sheet titled "Original_vehicle_data," which represents the raw untouched imported dataset.
+EV Data: The primary dataset utilized for the analysis is the "Cleaned Data" file, which represents the cleaned and refined dataset, and the "Raw data" link, which directs access to the raw, untouched imported dataset.
 
 ### Tools
 
@@ -77,7 +77,7 @@ LIMIT 10;
 My findings are summarized as follows:
 1. King County had the highest registration count under the Washington DOL.
 2. The vehicles in the top-performing EV range include the Chevy Bolt, Hyundai Kona, and Tesla Model S.
-3. The top states other registered under the Washington DOL include California, Virginia, and Maryland.
+3. The other top states registered under the Washington DOL include California, Virginia, and Maryland.
 
 ### Recommendations
 
