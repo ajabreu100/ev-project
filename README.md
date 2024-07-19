@@ -13,7 +13,7 @@ EV Data: The primary dataset utilized for the analysis is the file "EV_washingto
 
 ### Tools
 
--Excel - Data Cleaning [Cleaned Data](cleaned_ev_data.csv)
+-Excel - Data Cleaning [Cleaned Data](cleaned_ev_data.csv), [Raw data](https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/fa51be35-691f-45d2-9f3e-535877965e69)
 
 -SQLite Studio - Data Analysis
 
@@ -88,4 +88,7 @@ Focusing on those areas will increase the likelihood of engagement, as EVs are e
 ### Limitations
 Unfortunately, some rows have missing values that could not be accounted for in certain calculations. Though the number of NULL values wasn't large, there is still data missing from our overall findings. 
 
+### References
+
+My raw data source: [Click here](https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/fa51be35-691f-45d2-9f3e-535877965e69)
 
