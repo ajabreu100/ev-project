@@ -76,7 +76,7 @@ LIMIT 10;
 My findings are summarized as follows:
 1. King County had the highest registration count under the Washington DOL.
 2. The vehicles in the top-performing EV range include the Chevy Bolt, Hyundai Kona, and Tesla Model S.
-3. The top states registered under the Washington DOL include California, Virginia, and Maryland.
+3. The top states other registered under the Washington DOL include California, Virginia, and Maryland.
 
 ### Recommendations
 
