@@ -1,4 +1,4 @@
-# Washington DOL EV (Electric Vehicle) Registration Analysis
+# Washington DOL Electric Vehicle Registration Analysis
 
 ### Project Overview
 ---
