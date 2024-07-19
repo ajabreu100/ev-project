@@ -1,6 +1,7 @@
 # Washington DOL EV (Electric Vehicle) Registration Analysis
 
 ### Project Overview
+---
 
 This data analysis project aimed to identify the Washington State County with the highest EV vehicle registration count. By cleaning the data provided by the Washington Department of Licensing, generating SQL queries, and constructing visuals, we have a deeper understanding of Washington state EV registration activity. 
 
