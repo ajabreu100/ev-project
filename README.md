@@ -4,6 +4,9 @@
 
 This data analysis project aimed to identify the Washington State County with the highest EV vehicle registration count. By cleaning the data provided by the Washington Department of Licensing, generating SQL queries, and constructing visuals, we have a deeper understanding of Washington state EV registration activity. 
 
+![Dashboard 1](https://github.com/user-attachments/assets/9eec26f6-281b-4545-844a-9cacc90a1b60)
+
+
 ### Data Sources
 
 EV Data: The primary dataset utilized for the analysis is the file "EV_washington_DOL_data." The file contains two sheets: one sheet titled "work_vehicle_data," which represents the cleaned and refined dataset, and one sheet titled "Original_vehicle_data," which represents the raw untouched imported dataset.
