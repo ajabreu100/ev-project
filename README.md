@@ -13,7 +13,7 @@ EV Data: The primary dataset utilized for the analysis is the file "EV_washingto
 
 ### Tools
 
--Excel - Data Cleaning [Cleaned Data](cleaned_ev_data.csv), [Raw data](https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/fa51be35-691f-45d2-9f3e-535877965e69)
+-Excel - Data Cleaning ([Cleaned Data](cleaned_ev_data.csv), [Raw data](https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/fa51be35-691f-45d2-9f3e-535877965e69))
 
 -SQLite Studio - Data Analysis
 
