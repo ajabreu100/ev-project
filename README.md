@@ -14,11 +14,11 @@ EV Data: The primary dataset utilized for the analysis is the "Cleaned Data" fil
 
 ### Tools
 
--Excel - Data Cleaning ([Cleaned Data](cleaned_ev_data.csv), [Raw data](https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/fa51be35-691f-45d2-9f3e-535877965e69))
+- Excel - Data Cleaning ([Cleaned Data](cleaned_ev_data.csv), [Raw data](https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/fa51be35-691f-45d2-9f3e-535877965e69))
 
--SQLite Studio - Data Analysis
+- SQLite Studio - Data Analysis
 
--Tableau - Creating Visualizations
+- Tableau - Creating Visualizations
 
 
 ### Data Cleaning/ Preparation
@@ -34,11 +34,11 @@ In the data cleaning process phase, we performed tasks such as:
 ### Exploratory Data Analysis
 
 ##### Main Question
--Which county of Washington state contains the most EV vehicle registrations
+- Which county of Washington state contains the most EV vehicle registrations
 ##### Bonus Questions
--Which EV vehicles contain the highest driving range
+- Which EV vehicles contain the highest driving range
 
--What other states are registered in the Washington DOL
+- What other states are registered in the Washington DOL
 
 ### Data Analysis
 
