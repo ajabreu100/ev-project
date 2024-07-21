@@ -34,11 +34,11 @@ In the data cleaning process phase, we performed tasks such as:
 ### Exploratory Data Analysis
 
 ##### Main Question
-- Which county of Washington state contains the most EV vehicle registrations
+- Which county of Washington state contains the most EV vehicle registrations?
 ##### Bonus Questions
-- Which EV vehicles contain the highest driving range
+- Which EV vehicles contain the highest driving range?
 
-- What other states are registered in the Washington DOL
+- What other states are registered in the Washington DOL?
 
 ### Data Analysis
 
