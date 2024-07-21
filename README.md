@@ -3,14 +3,14 @@
 ### Project Overview
 ---
 
-This data analysis project aimed to identify the Washington State County with the highest Electric Vehicle registration count. By cleaning the data provided by the Washington Department of Licensing, generating SQL queries, and constructing visuals, we have a deeper understanding of Washington state EV registration activity. 
+This data analysis project aimed to identify the Washington State County with the highest count of Electric Vehicle registrations. After cleaning the data provided by the Washington Department of Licensing, running SQL queries, and creating visualizations, I have gained a deeper understanding of the EV registration activity in Washington state. 
 
 ![Dashboard 1](https://github.com/user-attachments/assets/9eec26f6-281b-4545-844a-9cacc90a1b60)
 
 
 ### Data Sources
 
-EV Data: The primary dataset utilized for the analysis is the "Cleaned Data" file, which represents the cleaned and refined dataset, and the "Raw data" link, which directs access to the raw, untouched imported dataset.
+EV Data: The primary dataset used for the analysis is the "Cleaned Data" file, which represents the refined dataset. The "Raw data" link provides access to the untouched imported dataset.
 
 ### Tools
 
@@ -23,22 +23,22 @@ EV Data: The primary dataset utilized for the analysis is the "Cleaned Data" fil
 
 ### Data Cleaning/ Preparation
 
-In the data cleaning process phase, we performed tasks such as:
+In the data cleaning process phase, I performed tasks such as:
 1. Loading CSV file into Excel, along with an initial inspection
-2. Filling any missing values that may not have been completed
+2. Filling any missing values that may not have been entered
 3. Examining data for any duplicate values
-4. Transforming all text casing to proper case
+4. Transforming all text casing to proper cased
 5. Trimming unnecessary data or spaces
 6. Formating column titles
 
 ### Exploratory Data Analysis
 
 ##### Main Question
-- Which county of Washington state contains the most EV vehicle registrations?
+- Which county in Washington state has the highest number of electric vehicle (EV) registrations?
 ##### Bonus Questions
-- Which EV vehicles contain the highest driving range?
+- Which electric vehicles have the longest driving range?
 
-- What other states are registered in the Washington DOL?
+- Which other states are recognized by the Washington Department of Licensing?
 
 ### Data Analysis
 
@@ -75,19 +75,20 @@ LIMIT 10;
 ### Results
 
 My findings are summarized as follows:
-1. King County had the highest registration count under the Washington DOL.
-2. The vehicles in the top-performing EV range include the Chevy Bolt, Hyundai Kona, and Tesla Model S.
-3. The other top states registered under the Washington DOL include California, Virginia, and Maryland.
+
+1. According to the Washington Department of Licensing, King County had the highest number of electric vehicle registrations in the state.
+2. In terms of performance range, the top-performing electric vehicles are the Chevy Bolt, Hyundai Kona, and Tesla Model S.
+3. California, Virginia, and Maryland are other states with high electric vehicle registration numbers under the Washington Department of Licensing.
 
 ### Recommendations
 
 Based on the results formulated from the analysis:
 
-The counties of King, Snohomish, and Pierce have the highest chance of electric vehicle-related engagement.
-Focusing on those areas will increase the likelihood of engagement, as EVs are exponentially more prevalent in these regions.
+The counties of King, Snohomish, and Pierce have the highest likelihood of electric vehicle-related engagement. Focusing on these areas will increase the likelihood of engagement, as EVs are significantly more prevalent in these regions.
 
 ### Limitations
-Unfortunately, some rows have missing values that could not be accounted for in certain calculations. Though the number of NULL values wasn't large, there is still data missing from our overall findings. 
+
+Unfortunately, a few rows contain missing values that couldn't be included in certain calculations. Although the number of NULL values was small, it still affects our overall findings. 
 
 ### References
 
