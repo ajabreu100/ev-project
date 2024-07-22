@@ -3,7 +3,7 @@
 ### Project Overview
 ---
 
-This data analysis project aimed to identify the Washington State County with the highest count of Electric Vehicle registrations. After cleaning the data provided by the Washington Department of Licensing, running SQL queries, and creating visualizations, I have gained a deeper understanding of the EV registration activity in Washington state. 
+This data analysis project aimed to identify the Washington State County with the highest count of electric vehicle registrations. After cleaning the data provided by the Washington Department of Licensing, running SQL queries, and creating visualizations, I have gained a deeper understanding of the EV registration activity in Washington state. 
 
 ![Dashboard 1](https://github.com/user-attachments/assets/9eec26f6-281b-4545-844a-9cacc90a1b60)
 
