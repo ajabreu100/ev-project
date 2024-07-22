@@ -34,7 +34,7 @@ In the data cleaning process phase, I performed tasks such as:
 ### Exploratory Data Analysis
 
 ##### Main Question
-- Which county in Washington state has the highest number of electric vehicle (EV) registrations?
+- Which County in Washington State has the highest number of electric vehicle (EV) registrations?
 ##### Bonus Questions
 - Which electric vehicles have the longest driving range?
 
@@ -84,11 +84,11 @@ My findings are summarized as follows:
 
 Based on the results formulated from the analysis:
 
-The counties of King, Snohomish, and Pierce have the highest likelihood of electric vehicle-related engagement. Focusing on these areas will increase the likelihood of engagement, as EVs are significantly more prevalent in these regions.
+The counties of King, Snohomish, and Pierce have the highest likelihood of electric vehicle-related engagement. Focusing on these areas will increase the likelihood of engagement for EV-focused endeavors, as EVs are significantly more prevalent in these regions.
 
 ### Limitations
 
-Unfortunately, a few rows contain missing values that couldn't be included in certain calculations. Although the number of NULL values was small, it still affects our overall findings. 
+Unfortunately, a few rows contain missing values that couldn't be included in certain calculations. Although the number of NULL values was small, it still had minimal effects on our overall findings. 
 
 ### References
 
